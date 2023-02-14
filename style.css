@@ -43,6 +43,13 @@ body {
 #play-button {
   position: absolute;
   z-index: 2;
+  background-color: red;
+  border-radius: 40px;
+  font-size: 24px;
+  font-family: "Comic Sans MS", sans-serif;
+  padding: 20px 40px;
+  color: white;
+  cursor: pointer;
   /* otros estilos */
 }
 
