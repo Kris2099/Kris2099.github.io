@@ -40,7 +40,11 @@ body {
     opacity: 1;
   }
 }
-
+#play-button {
+  position: absolute;
+  z-index: 2;
+  /* otros estilos */
+}
 
 .heart {
   position: absolute;
