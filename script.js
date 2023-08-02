@@ -29,7 +29,7 @@ const startAnimation = () => {
   
   addLetter();
   
-  const audio = new Audio("song.flac");
+  const audio = new Audio("songkh.flac");
   audio.autoplay = true;
   audio.loop = true;
   audio.volume = 0.5;
