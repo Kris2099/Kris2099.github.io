@@ -17,7 +17,7 @@ const startAnimation = () => {
   }
   
   let i = 0;
-  const message = "Te quiero mucho, Karla <3 (no sabes cuanto)";
+  const message = "Te quiero mucho, Genesis <3";
   
   const addLetter = () => {
     if (i < message.length) {
